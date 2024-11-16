@@ -1,7 +1,0 @@
-# Given Def
-def get_count(str):
-# Use Loop and .count to Count the Vowels 
-    num_vowels = 0
-    for vowel in ["a", "e", "i", "o", "u"]:
-        num_vowels += str.count(vowel)
-    return num_vowels
