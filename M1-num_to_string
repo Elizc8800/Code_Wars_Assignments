@@ -1,0 +1,6 @@
+# Given Function
+def number_to_string(num):
+# My Input Solution
+    return f"{num}"
+
+number_to_string(999)
